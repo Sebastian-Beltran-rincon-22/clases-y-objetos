@@ -10,4 +10,4 @@ class Persona:
 persona1 = Persona('Juan', 30, 'programador')
 persona2 = Persona('María', 25, 'médico')
 persona1.saludar() 
-persona2.presentarse() 
+persona2.presentarse()
